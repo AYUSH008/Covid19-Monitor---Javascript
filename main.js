@@ -1,5 +1,7 @@
 $(document).ready(function () {
     // Get JSON data from url
+    
+
     $.getJSON("https://api.covid19india.org/data.json", function (data) {
       var states = [];
       var confirmed = [];
@@ -44,6 +46,8 @@ $(document).ready(function () {
       
       var myChart = document.getElementById("myChart").getContext("2d");
       var chart = new Chart(myChart, {
+        reponsive: true,
+        maintainAspectRatio: false,
         zoomEnabled: true,
         type: "line",
         data: {
@@ -74,4 +78,11 @@ $(document).ready(function () {
         },
       });
     });
+
+
+    function beforePrintHandler () {
+      for (var id in myChart.instances) {
+          myChart.instances[id].resize();
+      }
+  }
   });

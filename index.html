@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://d3js.org/d3.v5.min.js"></script>
-    
+
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" />
@@ -40,14 +40,14 @@
 
 <body>
 
-
-    <div class="sidebar">
-        <a href="#home"> <span>Covid-19</span></a>
-        <a href="#news"><span>Home</span></a>
-        <a href="#contact"><span>Check-Up</span></a>
-        <a href="#about"><span>About Us</span></a>
-    </div>
-
+    
+        <div class="sidebar">
+            <a href="#home"> <span class="menu">Home</span></a>
+            <a href="#news"><span class="menu">State Wise</span></a>
+            <a href="#contact"><span class="menu">Check-Up</span></a>
+            <a href="#contact"><span class="menu">Emergency Contact</span></a>
+        </div>
+    
     <div class="content">
         <div class="container-xs bg-light p-5 text-center my-3">
             <h1 class="text">Covid-19 Tracker India</h1>
@@ -104,7 +104,15 @@
             </div>
         </div>
 
-        <canvas id="myChart"></canvas>
+
+        <div class="container text-center my-5">
+            <h6 class="text-info">
+                *Click on the Confirmed/Recovered/Deaths buttons Below to see the chart
+                individually.*
+            </h6>
+        </div>
+       
+        <canvas id="myChart" style="width: 95%; height: 500px;"></canvas>
         <!--hospitals and beds in india  start -->
         <div class="container">
             <div class="row mt-5 justify-content-center">
@@ -123,13 +131,6 @@
         </div>
         <!--hospitals and beds in india end -->
         <canvas id="myGraph"></canvas>
-
-        <div class="container text-center my-5">
-            <h6 class="text-info">
-                *Click on the Confirmed/Recovered/Deaths buttons above to see the chart
-                individually.*
-            </h6>
-        </div>
 
         <footer class="footer mt-2 py-3 bg-light">
             <div class="container text-center">

@@ -17,6 +17,8 @@ $(document).ready(function () {
       total_recovered = data.statewise[0].recovered;
       total_deaths = data.statewise[0].deaths;
   
+
+      
       // The each loop select a single statewise array element
       // Take the data in that array and add it to variables
       $.each(data.statewise, function (id, obj) {
@@ -39,8 +41,10 @@ $(document).ready(function () {
       $("#deaths").append(total_deaths);
   
       // Chart initialization
+      
       var myChart = document.getElementById("myChart").getContext("2d");
       var chart = new Chart(myChart, {
+        zoomEnabled: true,
         type: "line",
         data: {
           labels: states,
@@ -65,7 +69,9 @@ $(document).ready(function () {
             },
           ],
         },
-        option: {},
+        option: { 
+           
+        },
       });
     });
   });

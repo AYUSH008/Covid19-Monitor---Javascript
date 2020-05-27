@@ -28,6 +28,8 @@
 
     <!-- My jQuery -->
     <script src="main.js"></script>
+    <script src="index.js"></script>
+    <script src="table.js"></script>
 
     <!-- Chart.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
@@ -57,21 +59,25 @@
 
         <div class="container-sm ">
             <div class="row mt-5 justify-content-center">
-                <div class="card mx- mb-3"  style="width: 12rem;background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
-                <h5 class="confirmed">Confirmed</h5>
-                <p id="confirmed"><i class="fas fa-arrow-alt-from-bottom"></i></p>
+                <div class="card mx-3 mb-3"
+                    style="width: 12rem;background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                    <h5 class="confirmed">Confirmed</h5>
+                    <p id="confirmed"><i class="fas fa-arrow-alt-from-bottom"></i></p>
                 </div>
-                <div class="card  mx-3 mb-3" style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                <div class="card  mx-3 mb-3"
+                    style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
                     <h5 class="active">Active</h5>
-                <p id="active"><i class="fas fa-arrow-alt-from-bottom"></i></p>
+                    <p id="active"><i class="fas fa-arrow-alt-from-bottom"></i></p>
                 </div>
-                <div class="card mx-3 mb-3" style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                <div class="card mx-3 mb-3"
+                    style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
                     <h5 class="recovered">Recovered</h5>
-                <p id="recovered"><i class="fas fa-arrow-alt-from-bottom"></i></p>
+                    <p id="recovered"><i class="fas fa-arrow-alt-from-bottom"></i></p>
                 </div>
-                <div class="card mx-3 mb-3" style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                <div class="card mx-3 mb-3"
+                    style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
                     <h5 class="deaths">Deaths</h5>
-                <p id="deaths"><i class="fas fa-arrow-alt-from-bottom"></i></p>
+                    <p id="deaths"><i class="fas fa-arrow-alt-from-bottom"></i></p>
                 </div>
             </div>
 
@@ -80,7 +86,40 @@
                 <p class="text-muted">Stay Indoors Stay Safe.</p>
             </div>
 
+
+            <div class="container">
+                <table class="table table-stripped" id="detailTable">
+                    <tr>
+                        <th>State Name</th>
+                        <th>Confirmed</th>
+                        <th>Active</th>
+                        <th>Recovered</th>
+                        <th>Deaths</th>
+                    </tr>
+
+                </table>
+
+            </div>
+
             <canvas id="myChart"></canvas>
+            <!--hospitals and beds in india  start -->
+            <div class="container">
+                <div class="row mt-5 justify-content-center">
+                    <div class="card mx-6 mb-6 my-3"
+                        style="width: 12rem;background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                        <h5 class="hospitals">Total Hospitals</h5>
+                        <p id="hospitals"></p>
+                    </div>
+                    <div class="card  mx-6 mb-6 my-3"
+                        style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                        <h5 class="beds">Total Beds</h5>
+                        <p id="beds"></p>
+                    </div>
+
+                </div>
+            </div>
+            <!--hospitals and beds in india end -->
+            <canvas id="myGraph"></canvas>
 
             <div class="container text-center my-5">
                 <h6 class="text-info">

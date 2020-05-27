@@ -1,3 +1,4 @@
+
 $(document).ready(function(){
 $.getJSON("https://api.covid19india.org/data.json" , function(data){
 
@@ -12,6 +13,7 @@ $.each(data.statewise, function(key,obj){
     state_data +='<tr>';
 });
 $('#detailTable').append(state_data);
+
 });
 
 });

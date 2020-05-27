@@ -98,20 +98,57 @@ div.content {
   height: 800;
 }
 
+#t1{
+  color:rgb(23, 162, 184)
+
+}
+
+#t2{
+  color: #FF8300;
+
+}
+
+#t3{
+  color: rgb(77, 77, 255);
+
+}
+
+#t4{
+  color: #83f52c ;
+
+}
+
+#t5{
+  color: #FB2B11;
+
+}
+
+.table {
+  background-color: rgb(22, 22, 37);
+  border-radius: 10px;
+}
+#detailTable{
+  color: whitesmoke;
+  font-family: 'Roboto', sans-serif;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
 @media
 only screen and (max-width: 567px) {
   table, thead, tbody, th, td, tr {
     display: block;
+  }
+  th {
+    display: none;
   }
   thead tr {
     position: absolute;
     top: -9999px;
     left: -9999px;
   }
-  tr { border: 1px solid #ccc; }
+  tr { border: 1px solid rgb(22, 22, 37); }
   td {
     border: none;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid rgb(22, 22, 37);
     position: relative;
     padding-left: 150px;
     margin-left: 150px;
@@ -120,7 +157,7 @@ only screen and (max-width: 567px) {
     position: absolute;
     top: 12px;
     left: 6px;
-    width: 200px;
+    width: 50px;
     padding-right: 40px;
     white-space: nowrap;
     margin-left: -150px;

@@ -87,8 +87,10 @@
             </div>
 
 
-            <div class="container">
-                <table class="table table-stripped" id="detailTable">
+
+            <div class="col-lg-12"></div>
+            <div class="table-responsive-sm">
+                <table class="table table-stripped table-bordered table-hover table-dark" id="detailTable">
                     <tr>
                         <th>State Name</th>
                         <th>Confirmed</th>
@@ -98,43 +100,43 @@
                     </tr>
 
                 </table>
-
             </div>
-
-            <canvas id="myChart"></canvas>
-            <!--hospitals and beds in india  start -->
-            <div class="container">
-                <div class="row mt-5 justify-content-center">
-                    <div class="card mx-6 mb-6 my-3"
-                        style="width: 12rem;background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
-                        <h5 class="hospitals">Total Hospitals</h5>
-                        <p id="hospitals"></p>
-                    </div>
-                    <div class="card  mx-6 mb-6 my-3"
-                        style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
-                        <h5 class="beds">Total Beds</h5>
-                        <p id="beds"></p>
-                    </div>
-
-                </div>
-            </div>
-            <!--hospitals and beds in india end -->
-            <canvas id="myGraph"></canvas>
-
-            <div class="container text-center my-5">
-                <h6 class="text-info">
-                    *Click on the Confirmed/Recovered/Deaths buttons above to see the chart
-                    individually.*
-                </h6>
-            </div>
-
-            <footer class="footer mt-2 py-3 bg-light">
-                <div class="container text-center">
-                    <span class="text-muted">Copyright &copy;2020,
-                    </span>
-                </div>
-            </footer>
         </div>
+
+        <canvas id="myChart"></canvas>
+        <!--hospitals and beds in india  start -->
+        <div class="container">
+            <div class="row mt-5 justify-content-center">
+                <div class="card mx-6 mb-6 my-3"
+                    style="width: 12rem;background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                    <h5 class="hospitals">Total Hospitals</h5>
+                    <p id="hospitals"></p>
+                </div>
+                <div class="card  mx-6 mb-6 my-3"
+                    style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                    <h5 class="beds">Total Beds</h5>
+                    <p id="beds"></p>
+                </div>
+
+            </div>
+        </div>
+        <!--hospitals and beds in india end -->
+        <canvas id="myGraph"></canvas>
+
+        <div class="container text-center my-5">
+            <h6 class="text-info">
+                *Click on the Confirmed/Recovered/Deaths buttons above to see the chart
+                individually.*
+            </h6>
+        </div>
+
+        <footer class="footer mt-2 py-3 bg-light">
+            <div class="container text-center">
+                <span class="text-muted">Copyright &copy;2020,
+                </span>
+            </div>
+        </footer>
+    </div>
 </body>
 
 </html>

@@ -24,7 +24,7 @@ $(document).ready(function () {
       
       // The each loop select a single statewise array element
       // Take the data in that array and add it to variables
-      $.each(data.statewise, function (id, obj) {
+      $.each(data.statewise.slice(0,28), function (id, obj) {
         states.push(obj.state);
         confirmed.push(obj.confirmed);
         recovered.push(obj.recovered);

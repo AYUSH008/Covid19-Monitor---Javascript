@@ -1,0 +1,59 @@
+.menu{
+    color: wheat;
+  
+  }
+  .sidebar {
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    background-color: rgb(22, 22, 37);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+  .sidebar a {
+  
+    display: block;
+    color: rgb(0, 129, 203);
+    padding: 30px;
+    text-decoration: none;
+  }
+   
+  .sidebar a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .sidebar a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+  }
+  
+  div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+  }
+  
+  @media screen and (max-width: 700px) {
+  .sidebar {
+      width: 100%;
+      height: auto;
+      position: relative;
+    
+    }
+    .sidebar a {float: left; padding: 8px;}
+    div.content {margin-left: 0;}
+  }
+  
+  @media screen and (max-width: 576px) {
+    .sidebar a {
+      text-align: center;
+      position: relative;
+      margin-left:0;
+      float: left;
+    }
+  }
+
+  

@@ -42,14 +42,14 @@
 
 <body>
 
-    
-        <div class="sidebar">
-            <a href="#home"> <span class="menu">Home</span></a>
-            <a href="#news"><span class="menu">State Wise</span></a>
-            <a href="#contact"><span class="menu">Check-Up</span></a>
-            <a href="#contact"><span class="menu">Emergency Contact</span></a>
-        </div>
-    
+
+    <div class="sidebar">
+        <a href="#home"> <span class="menu">Home</span></a>
+        <a href="test.html"><span class="menu">State Wise</span></a>
+        <a href="#contact"><span class="menu">Check-Up</span></a>
+        <a href="#contact"><span class="menu">Emergency Contact</span></a>
+    </div>
+
     <div class="content">
         <div class="container-xs bg-light p-5 text-center my-3">
             <h1 class="text">Covid-19 Tracker India</h1>
@@ -113,27 +113,99 @@
                 individually.*
             </h6>
         </div>
-       
+
         <canvas id="myChart" style="width: 1382; height: 689; display: block;"></canvas>
         <!--hospitals and beds in india  start -->
-        <p>Number of Hospital and Beds Available for Patient in Inda</p>
-        <div class="container">
-            <div class="row mt-5 justify-content-center">
-                <div class="card mx-6 mb-6 my-3"
-                    style="width: 12rem;background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
-                    <h5 class="hospitals">Total Hospitals</h5>
-                    <p id="hospitals"></p>
-                </div>
-                <div class="card  mx-6 mb-6 my-3"
-                    style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
-                    <h5 class="beds">Total Beds</h5>
-                    <p id="beds"></p>
-                </div>
+        <p class="taghospital lead text-center">Hospitals in States/UTs (In India)</p>
 
+        <div class="container-sm responsive">
+            <div class="row mt-5 justify-content-center">
+                <div class="card mx-3 mb-3"
+                    style="width: 12rem; height: auto; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                    <h5 class="hospitalpublic">Hospitals in public sector</h5>
+                    <p class="hospitalpublic"> 25,778 </p>
+                </div>
+                <div class="card  mx-3 mb-3"
+                    style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                    <h5 class="hospitalprivate"> Hospitals in
+                        private sector
+                        </h5>
+                    <p class="hospitalprivate">43,487</p>
+                </div>
+                <div class="card  mx-3 mb-3"
+                    style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                    <h5 class="hospitaltotal">Total number
+                        of hospitals
+                        </h5>
+                    <p class="hospitaltotal">69,265</p>
+                </div>
             </div>
         </div>
+
+        <!--beds in india section start-->
+        <p class="taghospital lead text-center">Hospital Beds in States/UTs (In India)</p>
+
+        <div class="container-sm responsive">
+            <div class="row mt-5 justify-content-center">
+                <div class="card mx-3 mb-3"
+                    style="width: 12rem; height: auto; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                    <h5 class="hospitalpublic">Hospital beds in public sector</h5>
+                    <p class="hospitalpublic"> 7,13,986 </p>
+                </div>
+                <div class="card  mx-3 mb-3"
+                    style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                    <h5 class="hospitalprivate"> Hospital beds in
+                        private sector
+                        </h5>
+                    <p class="hospitalprivate">1,185,242</p>
+                </div>
+                <div class="card  mx-3 mb-3"
+                    style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                    <h5 class="hospitaltotal">Total number
+                        of hospital beds
+                        </h5>
+                    <p class="hospitaltotal"> 18,99,228</p>
+                </div>
+            </div>
+        </div>
+
+        <!--beds in india section end-->
+
+        <!--ventilators in india section start-->
+
+
+<p class="taghospital lead text-center">ICU Beds in States/UTs
+    (In India)</p>
+
+        <div class="container-sm responsive">
+            <div class="row mt-5 justify-content-center">
+                <div class="card mx-3 mb-3"
+                    style="width: 12rem; height: auto; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                    <h5 class="hospitalpublic">ICU beds in public sector</h5>
+                    <p class="hospitalpublic">35,699</p>
+                </div>
+                <div class="card  mx-3 mb-3"
+                    style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                    <h5 class="hospitalprivate"> ICU beds in
+                        private sector
+                        </h5>
+                    <p class="hospitalprivate">59,262</p>
+                </div>
+                <div class="card  mx-3 mb-3"
+                    style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+                    <h5 class="hospitaltotal">Total number of
+                        ICU beds 
+                        </h5>
+                    <p class="hospitaltotal">94,961</p>
+                </div>
+            </div>
+        </div>
+
+
+        <!--ventilators in india section end-->
+
         <!--hospitals and beds in india end -->
-       
+
         <footer class="footer mt-2 py-3 bg-light">
             <div class="container text-center">
                 <span class="text-muted">Copyright &copy;2020,

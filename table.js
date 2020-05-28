@@ -3,7 +3,7 @@ $(document).ready(function(){
 $.getJSON("https://api.covid19india.org/data.json" , function(data){
 
 var state_data = '';
-$.each(data.statewise, function(key,obj){
+$.each(data.statewise.slice(1,38), function(key,obj){
     state_data +='<tr>';
     state_data +='<td>'+obj.state+'</td>';
     state_data +='<td>'+obj.confirmed+'</td>';

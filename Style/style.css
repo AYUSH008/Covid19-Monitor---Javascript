@@ -15,9 +15,10 @@
   overflow: auto;
 }
 .sidebar a {
+
   display: block;
   color: rgb(0, 129, 203);
-  padding: 16px;
+  padding: 30px;
   text-decoration: none;
 }
  
@@ -182,8 +183,9 @@ only screen and (max-width: 576px) {
     width: 100%;
     height: auto;
     position: relative;
+  
   }
-  .sidebar a {float: left;}
+  .sidebar a {float: left; padding: 8px;}
   div.content {margin-left: 0;}
 }
 
@@ -224,4 +226,14 @@ only screen and (max-width: 576px) {
   font-size:20px;
   color: wheat;
   font-family: 'Roboto', sans-serif;
+}
+
+.sampletested{
+font-size: 20px;
+align-items: center;
+color: wheat;
+text-align: center;
+}
+.line{
+  background-color: wheat;
 }

@@ -7,6 +7,7 @@ $(document).ready(function () {
       var confirmed = [];
       var recovered = [];
       var deaths = [];
+
   
       var total_active;
       var total_confirmed;
@@ -29,12 +30,15 @@ $(document).ready(function () {
         recovered.push(obj.recovered);
         deaths.push(obj.deaths);
       });
+      
   
       // Remove the first element in the states, confirmed, recovered, and deaths as that is the total value
       states.shift();
       confirmed.shift();
       recovered.shift();
       deaths.shift();
+
+      
   
       // console.log(confirmed);
       $("#confirmed").append(total_confirmed);

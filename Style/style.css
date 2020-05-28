@@ -14,10 +14,6 @@
   height: 100%;
   overflow: auto;
 }
-
-.menu{
-  margin-bottom: 80px;
-}
 .sidebar a {
   display: block;
   color: rgb(0, 129, 203);

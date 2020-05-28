@@ -33,6 +33,7 @@
     <script src="main.js"></script>
     <script src="index.js"></script>
     <script src="table.js"></script>
+    <script src="statewise.js"></script>
 
     <!-- Chart.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js"></script>
@@ -115,6 +116,33 @@
         </div>
 
         <canvas id="myChart" style="width: 1382; height: 689; display: block;"></canvas>
+
+        <h4 class="text-info text-center p-3">Most Infected states in India (Top 4)</h4>
+        
+        <div class="card-deck py-3" style="background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+            <div class="card mx-3 mb-3">
+                <canvas id="myPieChart1"></canvas>
+            </div>
+            <div class="card mx-3 mb-3">
+                
+                <canvas id="myPieChart2"></canvas>
+            </div>
+        </div>
+<br>
+<br>
+
+
+        
+        <div class="card-deck py-3" style="background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
+            <div class="card mx-3 mb-3">
+                
+                <canvas id="myPieChart3"></canvas>
+            </div>
+            <div class="card mx-3 mb-3">
+                
+                <canvas id="myPieChart4"></canvas>
+            </div>
+        </div>
         <!--hospitals and beds in india  start -->
         <p class="taghospital lead text-center">Hospitals in States/UTs (In India)</p>
 
@@ -129,14 +157,14 @@
                     style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
                     <h5 class="hospitalprivate"> Hospitals in
                         private sector
-                        </h5>
+                    </h5>
                     <p class="hospitalprivate">43,487</p>
                 </div>
                 <div class="card  mx-3 mb-3"
                     style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
                     <h5 class="hospitaltotal">Total number
                         of hospitals
-                        </h5>
+                    </h5>
                     <p class="hospitaltotal">69,265</p>
                 </div>
             </div>
@@ -156,14 +184,14 @@
                     style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
                     <h5 class="hospitalprivate"> Hospital beds in
                         private sector
-                        </h5>
+                    </h5>
                     <p class="hospitalprivate">1,185,242</p>
                 </div>
                 <div class="card  mx-3 mb-3"
                     style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
                     <h5 class="hospitaltotal">Total number
                         of hospital beds
-                        </h5>
+                    </h5>
                     <p class="hospitaltotal"> 18,99,228</p>
                 </div>
             </div>
@@ -174,8 +202,8 @@
         <!--ventilators in india section start-->
 
 
-<p class="taghospital lead text-center">ICU Beds in States/UTs
-    (In India)</p>
+        <p class="taghospital lead text-center">ICU Beds in States/UTs
+            (In India)</p>
 
         <div class="container-sm responsive">
             <div class="row mt-5 justify-content-center">
@@ -188,14 +216,14 @@
                     style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
                     <h5 class="hospitalprivate"> ICU beds in
                         private sector
-                        </h5>
+                    </h5>
                     <p class="hospitalprivate">59,262</p>
                 </div>
                 <div class="card  mx-3 mb-3"
                     style="width: 12rem; background-color: rgb(22, 22, 37); box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
                     <h5 class="hospitaltotal">Total number of
-                        ICU beds 
-                        </h5>
+                        ICU beds
+                    </h5>
                     <p class="hospitaltotal">94,961</p>
                 </div>
             </div>

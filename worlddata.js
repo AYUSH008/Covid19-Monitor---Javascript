@@ -1,24 +1,21 @@
-$(document).ready(function(){
+$(document).ready(function () {
 
-$.getJSON("https://disease.sh/v2/all", function(data){
+    $.getJSON("https://covid19.mathdro.id/api", function (data) {
 
+        var confirmedworld = data.confirmed.value;
+        var recoverdworld = data.recovered.value;
+        var deathworld = data.deaths.value;
 
-var casepm = data.casesPerOneMillion;
-var recoverpm = data.recoveredPerOneMillion;
-var deathpm = data.deathsPerOneMillion;
-var activepm = data.activePerOneMillion;
-
-
-
-var worldchart1 = document.getElementById("worldchart1").getContext("2d");
-var worldchart1 = new Chart(worldchart1, {
+var worldchart2 = document.getElementById("worldchart2").getContext("2d");
+var worldchart2 = new Chart(worldchart2, {
     responsive: true,
-    type: 'doughnut',
+    type: 'line',
     data: {
-        labels: ['Case per million','Recovered Per Million','active Per million' , 'Death per million'],
+        labels: ['Confirmed','Recovered', 'Death'],
         datasets: [{
 
-            label: "Data Per Million in World",
+            label: "In India",
+            backgroundColor: ["rgb(230, 184, 0)" , "rgb(240, 112, 0)" , "rgb(255, 30, 5)"] ,
             fill: false,
             lineTension: 0.1,
             backgroundColor: ["rgb(230, 184, 0)" , "rgb(240, 112, 0)" , "rgb(255, 30, 5)","rgb(54, 162, 235)"] ,
@@ -34,16 +31,16 @@ var worldchart1 = new Chart(worldchart1, {
             pointHoverBackgroundColor:"rgba(75,192,192,1)",
             pointHoverBorderColor:"rgba(220,220,220,1)",
             pointHoverBorderWidth:1,
-            pointRadius:1,
+            pointRadius:2,
             pointHitRadius:10,
-            data: [casepm, recoverpm, activepm, deathpm],
+            data: [confirmedworld, recoverdworld, deathworld    ],
         }]
     },
     
 });
 
-});
 
+    });
 
 
 });

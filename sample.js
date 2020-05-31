@@ -13,43 +13,13 @@ $(document).ready(function () {
         var dailyrecovered = [];
         
 
-        $.each(data.cases_time_series.slice(110, 120), function (id, obj) {
+        $.each(data.cases_time_series.slice(0,5), function (id, obj) {
             dailyconfirmed.push(obj.dailyconfirmed);
             dailydeath.push(obj.dailydeceased);
             dailyrecovered.push(obj.dailyrecovered);
 
         });
         
-        var dchart2 = document.getElementById("dchart2").getContext("2d");
-        var dchart2 = new Chart(dchart2, {
-            responsive: true,
-            type: 'line',
-            data: {
-                labels: ['confirmed', 'recovered', 'deaths'],
-                datasets: [{
-
-                    label: 'Last 10 Days Cases in India',
-                    backgroundColor: ['#f1c40f', '#e67e22', '#e74c3c'],
-                    data: [dailyconfirmed, dailyrecovered, dailydeath]
-                }]
-            },
-            options: {
-                scales: {
-                    yAxes: [{
-                        display: true,
-                        ticks: {
-                            suggestedMin: 0,    // minimum will be 0, unless there is a lower value.
-
-                        }
-                    }]
-                }
-
-            },
-        });
-
-
-
-
 
 
 

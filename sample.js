@@ -11,7 +11,7 @@ $(document).ready(function () {
         var dailyconfirmed = [];
         var dailydeath = [];
         var dailyrecovered = [];
-
+        
 
         $.each(data.cases_time_series.slice(110, 120), function (id, obj) {
             dailyconfirmed.push(obj.dailyconfirmed);
@@ -23,24 +23,27 @@ $(document).ready(function () {
         var dchart2 = document.getElementById("dchart2").getContext("2d");
         var dchart2 = new Chart(dchart2, {
             responsive: true,
-            type: 'bar',
+            type: 'line',
             data: {
                 labels: ['confirmed', 'recovered', 'deaths'],
                 datasets: [{
 
-                    label: 'Last 10 Days Cases',
+                    label: 'Last 10 Days Cases in India',
                     backgroundColor: ['#f1c40f', '#e67e22', '#e74c3c'],
                     data: [dailyconfirmed, dailyrecovered, dailydeath]
                 }]
             },
             options: {
-                title: [{
-                    display: true,
-                    text: 'Confirmed Vs Recovered Vs Deaths'
+                scales: {
+                    yAxes: [{
+                        display: true,
+                        ticks: {
+                            suggestedMin: 0,    // minimum will be 0, unless there is a lower value.
 
-                },{
-                    beginAtZero:false,
-                },]
+                        }
+                    }]
+                }
+
             },
         });
 
@@ -58,7 +61,7 @@ $(document).ready(function () {
                 labels: ['confirmed', 'recovered', 'deaths'],
                 datasets: [{
 
-                    label: '2x Times',
+                    label: 'Data of India',
                     backgroundColor: ['#f1c40f', '#e67e22', '#e74c3c'],
                     data: [total_confirmed, total_recovered, total_deaths]
                 }]

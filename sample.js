@@ -13,7 +13,7 @@ $(document).ready(function () {
         var dailyrecovered = [];
         
 
-        $.each(data.cases_time_series.slice(0,5), function (id, obj) {
+        $.each(data.cases_time_series.slice(0,7), function (id, obj) {
             dailyconfirmed.push(obj.dailyconfirmed);
             dailydeath.push(obj.dailydeceased);
             dailyrecovered.push(obj.dailyrecovered);
@@ -28,10 +28,10 @@ $(document).ready(function () {
             responsive: true,
             type: 'horizontalBar',
             data: {
-                labels: ['confirmed', 'recovered', 'deaths'],
+                labels: ['Confirmed', 'Recovered', 'Deaths'],
                 datasets: [{
 
-                    label: 'Data of India',
+                    label: 'Cases in India',
                     backgroundColor: ['#f1c40f', '#e67e22', '#e74c3c'],
                     data: [total_confirmed, total_recovered, total_deaths]
                 }]

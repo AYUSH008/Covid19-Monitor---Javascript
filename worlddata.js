@@ -14,7 +14,7 @@ var worldchart2 = new Chart(worldchart2, {
         labels: ['Confirmed','Recovered', 'Death'],
         datasets: [{
 
-            label: "In India",
+            label: "Case in World",
             backgroundColor: ["rgb(230, 184, 0)" , "rgb(240, 112, 0)" , "rgb(255, 30, 5)"] ,
             fill: false,
             lineTension: 0.1,

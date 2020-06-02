@@ -1,0 +1,2262 @@
+[
+  {
+    "location": "Norway",
+    "country_code": "no",
+    "latitude": 60.47202399999999,
+    "longitude": 8.468945999999999,
+    "confirmed": 8440,
+    "dead": 236,
+    "recovered": 7727,
+    "updated": "2020-06-01 06:00:09.589404+00:00"
+  },
+  {
+    "location": "Sweden",
+    "country_code": "se",
+    "latitude": 60.12816100000001,
+    "longitude": 18.643501,
+    "confirmed": 37542,
+    "dead": 4395,
+    "recovered": 4971,
+    "updated": "2020-06-01 06:00:07.776563+00:00"
+  },
+  {
+    "location": "Singapore",
+    "country_code": "sg",
+    "latitude": 1.352083,
+    "longitude": 103.819836,
+    "confirmed": 34884,
+    "dead": 23,
+    "recovered": 21699,
+    "updated": "2020-06-01 06:00:07.832828+00:00"
+  },
+  {
+    "location": "United Arab Emirates",
+    "country_code": "ae",
+    "latitude": 23.424076,
+    "longitude": 53.847818,
+    "confirmed": 34557,
+    "dead": 264,
+    "recovered": 17932,
+    "updated": "2020-06-01 06:00:07.889325+00:00"
+  },
+  {
+    "location": "Russia",
+    "country_code": "ru",
+    "latitude": 61.52401,
+    "longitude": 105.318756,
+    "confirmed": 405843,
+    "dead": 4693,
+    "recovered": 171883,
+    "updated": "2020-06-01 06:00:06.593890+00:00"
+  },
+  {
+    "location": "Indonesia",
+    "country_code": "id",
+    "latitude": -0.789275,
+    "longitude": 113.921327,
+    "confirmed": 26473,
+    "dead": 1613,
+    "recovered": 7308,
+    "updated": "2020-06-01 06:00:08.209151+00:00"
+  },
+  {
+    "location": "Switzerland",
+    "country_code": "ch",
+    "latitude": 46.818188,
+    "longitude": 8.227511999999999,
+    "confirmed": 30862,
+    "dead": 1657,
+    "recovered": 28400,
+    "updated": "2020-06-01 06:00:08.050079+00:00"
+  },
+  {
+    "location": "Ireland",
+    "country_code": "ie",
+    "latitude": 53.1423672,
+    "longitude": -7.692053599999999,
+    "confirmed": 24990,
+    "dead": 1652,
+    "recovered": 22089,
+    "updated": "2020-06-01 06:00:08.256325+00:00"
+  },
+  {
+    "location": "Italy",
+    "country_code": "it",
+    "latitude": 41.87194,
+    "longitude": 12.56738,
+    "confirmed": 233019,
+    "dead": 33415,
+    "recovered": 157507,
+    "updated": "2020-06-01 06:00:06.756209+00:00"
+  },
+  {
+    "location": "Egypt",
+    "country_code": "eg",
+    "latitude": 26.820553,
+    "longitude": 30.802498,
+    "confirmed": 24985,
+    "dead": 959,
+    "recovered": 6810,
+    "updated": "2020-06-01 06:00:08.311878+00:00"
+  },
+  {
+    "location": "Poland",
+    "country_code": "pl",
+    "latitude": 51.919438,
+    "longitude": 19.145136,
+    "confirmed": 23786,
+    "dead": 1064,
+    "recovered": 11271,
+    "updated": "2020-06-01 06:00:08.368384+00:00"
+  },
+  {
+    "location": "Czech Republic",
+    "country_code": "cz",
+    "latitude": 49.81749199999999,
+    "longitude": 15.472962,
+    "confirmed": 9268,
+    "dead": 320,
+    "recovered": 6558,
+    "updated": "2020-06-01 06:00:09.534086+00:00"
+  },
+  {
+    "location": "Spain",
+    "country_code": "es",
+    "latitude": 40.46366700000001,
+    "longitude": -3.74922,
+    "confirmed": 239429,
+    "dead": 27127,
+    "recovered": 150376,
+    "updated": "2020-06-01 06:00:06.701189+00:00"
+  },
+  {
+    "location": "Belgium",
+    "country_code": "be",
+    "latitude": 50.503887,
+    "longitude": 4.469936,
+    "confirmed": 58381,
+    "dead": 9467,
+    "recovered": 15887,
+    "updated": "2020-06-01 06:00:07.436073+00:00"
+  },
+  {
+    "location": "India",
+    "country_code": "in",
+    "latitude": 20.593684,
+    "longitude": 78.96288,
+    "confirmed": 190535,
+    "dead": 5394,
+    "recovered": 91819,
+    "updated": "2020-06-01 06:00:06.806573+00:00"
+  },
+  {
+    "location": "Philippines",
+    "country_code": "ph",
+    "latitude": 12.879721,
+    "longitude": 121.774017,
+    "confirmed": 18086,
+    "dead": 957,
+    "recovered": 3909,
+    "updated": "2020-06-01 06:00:08.558920+00:00"
+  },
+  {
+    "location": "Romania",
+    "country_code": "ro",
+    "latitude": 45.943161,
+    "longitude": 24.96676,
+    "confirmed": 19257,
+    "dead": 1262,
+    "recovered": 13256,
+    "updated": "2020-06-01 06:00:08.507638+00:00"
+  },
+  {
+    "location": "Israel",
+    "country_code": "il",
+    "latitude": 31.046051,
+    "longitude": 34.851612,
+    "confirmed": 17024,
+    "dead": 284,
+    "recovered": 14812,
+    "updated": "2020-06-01 06:00:08.611318+00:00"
+  },
+  {
+    "location": "Mexico",
+    "country_code": "mx",
+    "latitude": 23.634501,
+    "longitude": -102.552784,
+    "confirmed": 90664,
+    "dead": 9930,
+    "recovered": 64326,
+    "updated": "2020-06-01 06:00:07.212036+00:00"
+  },
+  {
+    "location": "Iran",
+    "country_code": "ir",
+    "latitude": 32.427908,
+    "longitude": 53.688046,
+    "confirmed": 151466,
+    "dead": 7797,
+    "recovered": 118848,
+    "updated": "2020-06-01 06:00:07.065267+00:00"
+  },
+  {
+    "location": "Germany",
+    "country_code": "de",
+    "latitude": 51.165691,
+    "longitude": 10.451526,
+    "confirmed": 183494,
+    "dead": 8605,
+    "recovered": 165226,
+    "updated": "2020-06-01 06:00:06.863162+00:00"
+  },
+  {
+    "location": "Japan",
+    "country_code": "jp",
+    "latitude": 36.204824,
+    "longitude": 138.252924,
+    "confirmed": 16804,
+    "dead": 886,
+    "recovered": 14406,
+    "updated": "2020-06-01 06:00:08.782099+00:00"
+  },
+  {
+    "location": "Panama",
+    "country_code": "pa",
+    "latitude": 8.537981,
+    "longitude": -80.782127,
+    "confirmed": 13463,
+    "dead": 336,
+    "recovered": 9514,
+    "updated": "2020-06-01 06:00:08.967040+00:00"
+  },
+  {
+    "location": "Peru",
+    "country_code": "pe",
+    "latitude": -9.189967,
+    "longitude": -75.015152,
+    "confirmed": 164476,
+    "dead": 4506,
+    "recovered": 67208,
+    "updated": "2020-06-01 06:00:06.917462+00:00"
+  },
+  {
+    "location": "Turkey",
+    "country_code": "tr",
+    "latitude": 38.963745,
+    "longitude": 35.243322,
+    "confirmed": 163942,
+    "dead": 4540,
+    "recovered": 127973,
+    "updated": "2020-06-01 06:00:06.970703+00:00"
+  },
+  {
+    "location": "Chile",
+    "country_code": "cl",
+    "latitude": -35.675147,
+    "longitude": -71.542969,
+    "confirmed": 99688,
+    "dead": 1054,
+    "recovered": 42727,
+    "updated": "2020-06-01 06:00:07.109922+00:00"
+  },
+  {
+    "location": "Austria",
+    "country_code": "at",
+    "latitude": 47.516231,
+    "longitude": 14.550072,
+    "confirmed": 16731,
+    "dead": 668,
+    "recovered": 15593,
+    "updated": "2020-06-01 06:00:08.835255+00:00"
+  },
+  {
+    "location": "Denmark",
+    "country_code": "dk",
+    "latitude": 56.26392,
+    "longitude": 9.501785,
+    "confirmed": 11669,
+    "dead": 574,
+    "recovered": 10362,
+    "updated": "2020-06-01 06:00:09.020091+00:00"
+  },
+  {
+    "location": "South Korea",
+    "country_code": "kr",
+    "latitude": 35.907757,
+    "longitude": 127.766922,
+    "confirmed": 11503,
+    "dead": 271,
+    "recovered": 10422,
+    "updated": "2020-06-01 06:00:09.066904+00:00"
+  },
+  {
+    "location": "Bangladesh",
+    "country_code": "bd",
+    "latitude": 23.684994,
+    "longitude": 90.356331,
+    "confirmed": 47153,
+    "dead": 650,
+    "recovered": 9781,
+    "updated": "2020-06-01 06:00:07.559212+00:00"
+  },
+  {
+    "location": "Pakistan",
+    "country_code": "pk",
+    "latitude": 30.375321,
+    "longitude": 69.34511599999999,
+    "confirmed": 69496,
+    "dead": 1483,
+    "recovered": 25271,
+    "updated": "2020-06-01 06:00:07.374829+00:00"
+  },
+  {
+    "location": "Serbia",
+    "country_code": "rs",
+    "latitude": 44.016521,
+    "longitude": 21.005859,
+    "confirmed": 11412,
+    "dead": 243,
+    "recovered": 6698,
+    "updated": "2020-06-01 06:00:09.175134+00:00"
+  },
+  {
+    "location": "Malaysia",
+    "country_code": "my",
+    "latitude": 4.210484,
+    "longitude": 101.975766,
+    "confirmed": 7819,
+    "dead": 115,
+    "recovered": 6353,
+    "updated": "2020-06-01 06:00:09.740055+00:00"
+  },
+  {
+    "location": "Saudi Arabia",
+    "country_code": "sa",
+    "latitude": 23.885942,
+    "longitude": 45.079162,
+    "confirmed": 85261,
+    "dead": 503,
+    "recovered": 62442,
+    "updated": "2020-06-01 06:00:07.266097+00:00"
+  },
+  {
+    "location": "Portugal",
+    "country_code": "pt",
+    "latitude": 39.39987199999999,
+    "longitude": -8.224454,
+    "confirmed": 32500,
+    "dead": 1410,
+    "recovered": 19409,
+    "updated": "2020-06-01 06:00:07.993895+00:00"
+  },
+  {
+    "location": "Canada",
+    "country_code": "ca",
+    "latitude": 56.130366,
+    "longitude": -106.346771,
+    "confirmed": 90947,
+    "dead": 7295,
+    "recovered": 48879,
+    "updated": "2020-06-01 06:00:07.159222+00:00"
+  },
+  {
+    "location": "China",
+    "country_code": "cn",
+    "latitude": 35.86166,
+    "longitude": 104.195397,
+    "confirmed": 83017,
+    "dead": 4634,
+    "recovered": 78307,
+    "updated": "2020-06-01 06:00:07.320956+00:00"
+  },
+  {
+    "location": "Australia",
+    "country_code": "au",
+    "latitude": -25.274398,
+    "longitude": 133.775136,
+    "confirmed": 7193,
+    "dead": 103,
+    "recovered": 6614,
+    "updated": "2020-06-01 06:00:09.852706+00:00"
+  },
+  {
+    "location": "Belarus",
+    "country_code": "by",
+    "latitude": 53.709807,
+    "longitude": 27.953389,
+    "confirmed": 42556,
+    "dead": 235,
+    "recovered": 18514,
+    "updated": "2020-06-01 06:00:07.670181+00:00"
+  },
+  {
+    "location": "Ecuador",
+    "country_code": "ec",
+    "latitude": -1.831239,
+    "longitude": -78.18340599999999,
+    "confirmed": 39098,
+    "dead": 3358,
+    "recovered": 3900,
+    "updated": "2020-06-01 06:00:07.721527+00:00"
+  },
+  {
+    "location": "South Africa",
+    "country_code": "za",
+    "latitude": -30.559482,
+    "longitude": 22.937506,
+    "confirmed": 32683,
+    "dead": 103,
+    "recovered": 16809,
+    "updated": "2020-06-01 06:02:54.478208+00:00"
+  },
+  {
+    "location": "Brazil",
+    "country_code": "br",
+    "latitude": -14.235004,
+    "longitude": -51.92528,
+    "confirmed": 514992,
+    "dead": 29341,
+    "recovered": 206555,
+    "updated": "2020-06-01 06:00:06.522405+00:00"
+  },
+  {
+    "location": "Iraq",
+    "country_code": "iq",
+    "latitude": 33.223191,
+    "longitude": 43.679291,
+    "confirmed": 6439,
+    "dead": 205,
+    "recovered": 3156,
+    "updated": "2020-06-01 06:00:09.950905+00:00"
+  },
+  {
+    "location": "Azerbaijan",
+    "country_code": "az",
+    "latitude": 40.143105,
+    "longitude": 47.576927,
+    "confirmed": 5494,
+    "dead": 63,
+    "recovered": 3428,
+    "updated": "2020-06-01 06:00:10.049845+00:00"
+  },
+  {
+    "location": "Hungary",
+    "country_code": "hu",
+    "latitude": 47.162494,
+    "longitude": 19.5033041,
+    "confirmed": 3876,
+    "dead": 526,
+    "recovered": 2147,
+    "updated": "2020-06-01 06:00:10.377797+00:00"
+  },
+  {
+    "location": "Senegal",
+    "country_code": "sn",
+    "latitude": 14.497401,
+    "longitude": -14.452362,
+    "confirmed": 3645,
+    "dead": 41,
+    "recovered": 1801,
+    "updated": "2020-06-01 06:00:10.523488+00:00"
+  },
+  {
+    "location": "Djibouti",
+    "country_code": "dj",
+    "latitude": 11.825138,
+    "longitude": 42.590275,
+    "confirmed": 3354,
+    "dead": 24,
+    "recovered": 1504,
+    "updated": "2020-06-01 06:00:10.639098+00:00"
+  },
+  {
+    "location": "DR Congo",
+    "country_code": "cd",
+    "latitude": -4.038333,
+    "longitude": 21.758664,
+    "confirmed": 3046,
+    "dead": 72,
+    "recovered": 448,
+    "updated": "2020-06-01 06:00:10.751902+00:00"
+  },
+  {
+    "location": "Kyrgyzstan",
+    "country_code": "kg",
+    "latitude": 41.20438,
+    "longitude": 74.766098,
+    "confirmed": 1748,
+    "dead": 16,
+    "recovered": 1170,
+    "updated": "2020-06-01 06:00:11.600489+00:00"
+  },
+  {
+    "location": "Slovenia",
+    "country_code": "si",
+    "latitude": 46.151241,
+    "longitude": 14.995463,
+    "confirmed": 1473,
+    "dead": 108,
+    "recovered": 1357,
+    "updated": "2020-06-01 06:00:12.368731+00:00"
+  },
+  {
+    "location": "Bahrain",
+    "country_code": "bh",
+    "latitude": 26.0667,
+    "longitude": 50.5577,
+    "confirmed": 11288,
+    "dead": 19,
+    "recovered": 6673,
+    "updated": "2020-06-01 06:00:09.229344+00:00"
+  },
+  {
+    "location": "Algeria",
+    "country_code": "dz",
+    "latitude": 28.033886,
+    "longitude": 1.659626,
+    "confirmed": 9394,
+    "dead": 653,
+    "recovered": 5748,
+    "updated": "2020-06-01 06:00:09.432993+00:00"
+  },
+  {
+    "location": "Moldova",
+    "country_code": "md",
+    "latitude": 47.411631,
+    "longitude": 28.369885,
+    "confirmed": 8251,
+    "dead": 295,
+    "recovered": 4581,
+    "updated": "2020-06-01 06:00:09.640188+00:00"
+  },
+  {
+    "location": "Croatia",
+    "country_code": "hr",
+    "latitude": 45.1,
+    "longitude": 15.2000001,
+    "confirmed": 2246,
+    "dead": 103,
+    "recovered": 2072,
+    "updated": "2020-06-01 06:00:11.092204+00:00"
+  },
+  {
+    "location": "Morocco",
+    "country_code": "ma",
+    "latitude": 31.791702,
+    "longitude": -7.092619999999999,
+    "confirmed": 7807,
+    "dead": 205,
+    "recovered": 5459,
+    "updated": "2020-06-01 06:00:09.799988+00:00"
+  },
+  {
+    "location": "Cuba",
+    "country_code": "cu",
+    "latitude": 21.521757,
+    "longitude": -77.781167,
+    "confirmed": 2045,
+    "dead": 83,
+    "recovered": 1809,
+    "updated": "2020-06-01 06:00:11.200715+00:00"
+  },
+  {
+    "location": "Estonia",
+    "country_code": "ee",
+    "latitude": 58.595272,
+    "longitude": 25.0136071,
+    "confirmed": 1869,
+    "dead": 68,
+    "recovered": 1624,
+    "updated": "2020-06-01 06:00:11.348540+00:00"
+  },
+  {
+    "location": "Albania",
+    "country_code": "al",
+    "latitude": 41.153332,
+    "longitude": 20.168331,
+    "confirmed": 1137,
+    "dead": 33,
+    "recovered": 872,
+    "updated": "2020-06-01 06:00:12.788568+00:00"
+  },
+  {
+    "location": "Tunisia",
+    "country_code": "tn",
+    "latitude": 33.886917,
+    "longitude": 9.537499,
+    "confirmed": 1077,
+    "dead": 48,
+    "recovered": 960,
+    "updated": "2020-06-01 06:00:12.907491+00:00"
+  },
+  {
+    "location": "Kosovo",
+    "country_code": "xk",
+    "latitude": 42.6026359,
+    "longitude": 20.902977,
+    "confirmed": 1064,
+    "dead": 30,
+    "recovered": 829,
+    "updated": "2020-06-01 06:00:13.021142+00:00"
+  },
+  {
+    "location": "Cyprus",
+    "country_code": "cy",
+    "latitude": 35.126413,
+    "longitude": 33.429859,
+    "confirmed": 944,
+    "dead": 17,
+    "recovered": 790,
+    "updated": "2020-06-01 06:00:13.420638+00:00"
+  },
+  {
+    "location": "Afghanistan",
+    "country_code": "af",
+    "latitude": 33.93911,
+    "longitude": 67.709953,
+    "confirmed": 15205,
+    "dead": 257,
+    "recovered": 1328,
+    "updated": "2020-06-01 06:00:08.919811+00:00"
+  },
+  {
+    "location": "Guinea",
+    "country_code": "gn",
+    "latitude": 9.945587,
+    "longitude": -9.696645,
+    "confirmed": 3706,
+    "dead": 23,
+    "recovered": 2030,
+    "updated": "2020-06-01 06:00:10.476529+00:00"
+  },
+  {
+    "location": "Argentina",
+    "country_code": "ar",
+    "latitude": -38.416097,
+    "longitude": -63.61667199999999,
+    "confirmed": 16838,
+    "dead": 539,
+    "recovered": 5323,
+    "updated": "2020-06-01 06:00:08.714342+00:00"
+  },
+  {
+    "location": "Oman",
+    "country_code": "om",
+    "latitude": 21.4735329,
+    "longitude": 55.975413,
+    "confirmed": 11437,
+    "dead": 49,
+    "recovered": 2682,
+    "updated": "2020-06-01 06:00:09.117831+00:00"
+  },
+  {
+    "location": "Sudan",
+    "country_code": "sd",
+    "latitude": 12.862807,
+    "longitude": 30.217636,
+    "confirmed": 5026,
+    "dead": 286,
+    "recovered": 1423,
+    "updated": "2020-06-01 06:00:10.161572+00:00"
+  },
+  {
+    "location": "Uzbekistan",
+    "country_code": "uz",
+    "latitude": 41.377491,
+    "longitude": 64.585262,
+    "confirmed": 3623,
+    "dead": 15,
+    "recovered": 2837,
+    "updated": "2020-06-01 06:00:10.588020+00:00"
+  },
+  {
+    "location": "Thailand",
+    "country_code": "th",
+    "latitude": 15.870032,
+    "longitude": 100.992541,
+    "confirmed": 3081,
+    "dead": 57,
+    "recovered": 2963,
+    "updated": "2020-06-01 06:00:10.693251+00:00"
+  },
+  {
+    "location": "Greece",
+    "country_code": "gr",
+    "latitude": 39.074208,
+    "longitude": 21.824312,
+    "confirmed": 2917,
+    "dead": 175,
+    "recovered": 1374,
+    "updated": "2020-06-01 06:00:10.806731+00:00"
+  },
+  {
+    "location": "Ivory Coast",
+    "country_code": "ci",
+    "latitude": 7.539988999999999,
+    "longitude": -5.547079999999999,
+    "confirmed": 2833,
+    "dead": 33,
+    "recovered": 1435,
+    "updated": "2020-06-01 06:00:10.858132+00:00"
+  },
+  {
+    "location": "Bulgaria",
+    "country_code": "bg",
+    "latitude": 42.733883,
+    "longitude": 25.48583,
+    "confirmed": 2513,
+    "dead": 140,
+    "recovered": 1074,
+    "updated": "2020-06-01 06:00:11.035278+00:00"
+  },
+  {
+    "location": "North Macedonia",
+    "country_code": "mk",
+    "latitude": 41.608635,
+    "longitude": 21.745275,
+    "confirmed": 2226,
+    "dead": 133,
+    "recovered": 1552,
+    "updated": "2020-06-01 06:00:11.139302+00:00"
+  },
+  {
+    "location": "Somalia",
+    "country_code": "so",
+    "latitude": 5.152149,
+    "longitude": 46.199616,
+    "confirmed": 1976,
+    "dead": 78,
+    "recovered": 348,
+    "updated": "2020-06-01 06:00:11.250108+00:00"
+  },
+  {
+    "location": "Iceland",
+    "country_code": "is",
+    "latitude": 64.963051,
+    "longitude": -19.020835,
+    "confirmed": 1806,
+    "dead": 10,
+    "recovered": 1794,
+    "updated": "2020-06-01 06:00:11.504556+00:00"
+  },
+  {
+    "location": "Lithuania",
+    "country_code": "lt",
+    "latitude": 55.169438,
+    "longitude": 23.881275,
+    "confirmed": 1675,
+    "dead": 70,
+    "recovered": 1236,
+    "updated": "2020-06-01 06:00:11.661005+00:00"
+  },
+  {
+    "location": "Nigeria",
+    "country_code": "ng",
+    "latitude": 9.081999,
+    "longitude": 8.675277,
+    "confirmed": 10162,
+    "dead": 287,
+    "recovered": 3007,
+    "updated": "2020-06-01 06:00:09.326672+00:00"
+  },
+  {
+    "location": "Armenia",
+    "country_code": "am",
+    "latitude": 40.069099,
+    "longitude": 45.038189,
+    "confirmed": 9282,
+    "dead": 131,
+    "recovered": 3386,
+    "updated": "2020-06-01 06:00:09.481321+00:00"
+  },
+  {
+    "location": "Ghana",
+    "country_code": "gh",
+    "latitude": 7.946527,
+    "longitude": -1.023194,
+    "confirmed": 7881,
+    "dead": 36,
+    "recovered": 2841,
+    "updated": "2020-06-01 06:00:09.689220+00:00"
+  },
+  {
+    "location": "Finland",
+    "country_code": "fi",
+    "latitude": 61.92410999999999,
+    "longitude": 25.7481511,
+    "confirmed": 6859,
+    "dead": 320,
+    "recovered": 5500,
+    "updated": "2020-06-01 06:00:09.899695+00:00"
+  },
+  {
+    "location": "Cameroon",
+    "country_code": "cm",
+    "latitude": 7.369721999999999,
+    "longitude": 12.354722,
+    "confirmed": 5904,
+    "dead": 191,
+    "recovered": 3568,
+    "updated": "2020-06-01 06:00:10.003510+00:00"
+  },
+  {
+    "location": "New Zealand",
+    "country_code": "nz",
+    "latitude": -40.900557,
+    "longitude": 174.885971,
+    "confirmed": 1154,
+    "dead": 22,
+    "recovered": 1131,
+    "updated": "2020-06-01 06:00:12.728042+00:00"
+  },
+  {
+    "location": "Hong Kong",
+    "country_code": "hk",
+    "latitude": 22.3193039,
+    "longitude": 114.1693611,
+    "confirmed": 1085,
+    "dead": 4,
+    "recovered": 1037,
+    "updated": "2020-06-01 06:00:12.854930+00:00"
+  },
+  {
+    "location": "Latvia",
+    "country_code": "lv",
+    "latitude": 56.879635,
+    "longitude": 24.603189,
+    "confirmed": 1066,
+    "dead": 24,
+    "recovered": 745,
+    "updated": "2020-06-01 06:00:12.964188+00:00"
+  },
+  {
+    "location": "Venezuela",
+    "country_code": "ve",
+    "latitude": 6.42375,
+    "longitude": -66.58973,
+    "confirmed": 1510,
+    "dead": 14,
+    "recovered": 302,
+    "updated": "2020-06-01 06:00:12.306393+00:00"
+  },
+  {
+    "location": "Brunei",
+    "country_code": "bn",
+    "latitude": 4.535277,
+    "longitude": 114.727669,
+    "confirmed": 141,
+    "dead": 2,
+    "recovered": 138,
+    "updated": "2020-06-01 06:00:15.855073+00:00"
+  },
+  {
+    "location": "Tajikistan",
+    "country_code": "tj",
+    "latitude": 38.861034,
+    "longitude": 71.276093,
+    "confirmed": 3930,
+    "dead": 47,
+    "recovered": 2004,
+    "updated": "2020-06-01 06:00:10.322250+00:00"
+  },
+  {
+    "location": "Gabon",
+    "country_code": "ga",
+    "latitude": -0.803689,
+    "longitude": 11.609444,
+    "confirmed": 2655,
+    "dead": 17,
+    "recovered": 722,
+    "updated": "2020-06-01 06:00:10.929773+00:00"
+  },
+  {
+    "location": "Andorra",
+    "country_code": "ad",
+    "latitude": 42.506285,
+    "longitude": 1.521801,
+    "confirmed": 764,
+    "dead": 51,
+    "recovered": 692,
+    "updated": "2020-06-01 06:00:13.810760+00:00"
+  },
+  {
+    "location": "Faroe Islands",
+    "country_code": "fo",
+    "latitude": 61.89263500000001,
+    "longitude": -6.9118061,
+    "confirmed": 187,
+    "dead": 0,
+    "recovered": 187,
+    "updated": "2020-06-01 06:00:15.438345+00:00"
+  },
+  {
+    "location": "Kenya",
+    "country_code": "ke",
+    "latitude": -0.023559,
+    "longitude": 37.906193,
+    "confirmed": 1962,
+    "dead": 64,
+    "recovered": 474,
+    "updated": "2020-06-01 06:00:11.302885+00:00"
+  },
+  {
+    "location": "Guernsey",
+    "country_code": "gg",
+    "latitude": 49.4481982,
+    "longitude": -2.58949,
+    "confirmed": 252,
+    "dead": 13,
+    "recovered": 238,
+    "updated": "2020-06-01 06:00:15.209054+00:00"
+  },
+  {
+    "location": "Maldives",
+    "country_code": "mv",
+    "latitude": 3.202778,
+    "longitude": 73.22068,
+    "confirmed": 1773,
+    "dead": 5,
+    "recovered": 453,
+    "updated": "2020-06-01 06:00:11.556620+00:00"
+  },
+  {
+    "location": "Guinea-Bissau",
+    "country_code": "gw",
+    "latitude": 11.803749,
+    "longitude": -15.180413,
+    "confirmed": 1256,
+    "dead": 8,
+    "recovered": 42,
+    "updated": "2020-06-01 06:00:12.496041+00:00"
+  },
+  {
+    "location": "Lebanon",
+    "country_code": "lb",
+    "latitude": 33.854721,
+    "longitude": 35.862285,
+    "confirmed": 1220,
+    "dead": 27,
+    "recovered": 712,
+    "updated": "2020-06-01 06:00:12.607309+00:00"
+  },
+  {
+    "location": "Costa Rica",
+    "country_code": "cr",
+    "latitude": 9.748916999999999,
+    "longitude": -83.753428,
+    "confirmed": 1056,
+    "dead": 10,
+    "recovered": 669,
+    "updated": "2020-06-01 06:00:13.135018+00:00"
+  },
+  {
+    "location": "Niger",
+    "country_code": "ne",
+    "latitude": 17.607789,
+    "longitude": 8.081666,
+    "confirmed": 958,
+    "dead": 64,
+    "recovered": 839,
+    "updated": "2020-06-01 06:00:13.365132+00:00"
+  },
+  {
+    "location": "Zambia",
+    "country_code": "zm",
+    "latitude": -13.133897,
+    "longitude": 27.849332,
+    "confirmed": 1057,
+    "dead": 7,
+    "recovered": 779,
+    "updated": "2020-06-01 06:00:13.080156+00:00"
+  },
+  {
+    "location": "Paraguay",
+    "country_code": "py",
+    "latitude": -23.442503,
+    "longitude": -58.443832,
+    "confirmed": 986,
+    "dead": 11,
+    "recovered": 477,
+    "updated": "2020-06-01 06:00:13.309124+00:00"
+  },
+  {
+    "location": "Sierra Leone",
+    "country_code": "sl",
+    "latitude": 8.460555,
+    "longitude": -11.779889,
+    "confirmed": 861,
+    "dead": 46,
+    "recovered": 454,
+    "updated": "2020-06-01 06:00:13.469100+00:00"
+  },
+  {
+    "location": "Jordan",
+    "country_code": "jo",
+    "latitude": 30.585164,
+    "longitude": 36.238414,
+    "confirmed": 739,
+    "dead": 9,
+    "recovered": 522,
+    "updated": "2020-06-01 06:00:13.910457+00:00"
+  },
+  {
+    "location": "Georgia",
+    "country_code": "ge",
+    "latitude": 32.1656221,
+    "longitude": -82.9000751,
+    "confirmed": 783,
+    "dead": 12,
+    "recovered": 605,
+    "updated": "2020-06-01 06:00:13.640583+00:00"
+  },
+  {
+    "location": "Malta",
+    "country_code": "mt",
+    "latitude": 35.937496,
+    "longitude": 14.375416,
+    "confirmed": 618,
+    "dead": 9,
+    "recovered": 525,
+    "updated": "2020-06-01 06:00:14.035193+00:00"
+  },
+  {
+    "location": "Palestine",
+    "country_code": "ps",
+    "latitude": 31.952162,
+    "longitude": 35.233154,
+    "confirmed": 448,
+    "dead": 3,
+    "recovered": 368,
+    "updated": "2020-06-01 06:00:14.325821+00:00"
+  },
+  {
+    "location": "Cape Verde",
+    "country_code": "cv",
+    "latitude": 16.5388,
+    "longitude": -23.0418,
+    "confirmed": 435,
+    "dead": 4,
+    "recovered": 193,
+    "updated": "2020-06-01 06:00:14.507908+00:00"
+  },
+  {
+    "location": "Rwanda",
+    "country_code": "rw",
+    "latitude": -1.940278,
+    "longitude": 29.873888,
+    "confirmed": 370,
+    "dead": 1,
+    "recovered": 256,
+    "updated": "2020-06-01 06:00:14.627052+00:00"
+  },
+  {
+    "location": "Isle of Man",
+    "country_code": "im",
+    "latitude": 54.236107,
+    "longitude": -4.548056,
+    "confirmed": 336,
+    "dead": 24,
+    "recovered": 309,
+    "updated": "2020-06-01 06:00:14.705462+00:00"
+  },
+  {
+    "location": "Congo",
+    "country_code": "cg",
+    "latitude": -4.038333,
+    "longitude": 21.758664,
+    "confirmed": 611,
+    "dead": 20,
+    "recovered": 179,
+    "updated": "2020-06-01 06:00:14.086464+00:00"
+  },
+  {
+    "location": "Montenegro",
+    "country_code": "me",
+    "latitude": 42.708678,
+    "longitude": 19.37439,
+    "confirmed": 324,
+    "dead": 9,
+    "recovered": 315,
+    "updated": "2020-06-01 06:00:14.860164+00:00"
+  },
+  {
+    "location": "Jersey",
+    "country_code": "je",
+    "latitude": 49.214439,
+    "longitude": -2.13125,
+    "confirmed": 308,
+    "dead": 29,
+    "recovered": 287,
+    "updated": "2020-06-01 06:00:14.987261+00:00"
+  },
+  {
+    "location": "Liberia",
+    "country_code": "lr",
+    "latitude": 6.428055,
+    "longitude": -9.429499000000002,
+    "confirmed": 288,
+    "dead": 27,
+    "recovered": 157,
+    "updated": "2020-06-01 06:00:15.042698+00:00"
+  },
+  {
+    "location": "Guam",
+    "country_code": "gu",
+    "latitude": 13.444304,
+    "longitude": 144.793731,
+    "confirmed": 172,
+    "dead": 5,
+    "recovered": 143,
+    "updated": "2020-06-01 06:00:15.627914+00:00"
+  },
+  {
+    "location": "Gibraltar",
+    "country_code": "gi",
+    "latitude": 36.140751,
+    "longitude": -5.353585,
+    "confirmed": 170,
+    "dead": 0,
+    "recovered": 149,
+    "updated": "2020-06-01 06:00:15.671417+00:00"
+  },
+  {
+    "location": "Guatemala",
+    "country_code": "gt",
+    "latitude": 15.783471,
+    "longitude": -90.23075899999999,
+    "confirmed": 4739,
+    "dead": 102,
+    "recovered": 706,
+    "updated": "2020-06-01 06:00:10.211148+00:00"
+  },
+  {
+    "location": "Mali",
+    "country_code": "ml",
+    "latitude": 17.570692,
+    "longitude": -3.996166,
+    "confirmed": 1265,
+    "dead": 77,
+    "recovered": 716,
+    "updated": "2020-06-01 06:00:12.555092+00:00"
+  },
+  {
+    "location": "Ethiopia",
+    "country_code": "et",
+    "latitude": 9.145000000000001,
+    "longitude": 40.489673,
+    "confirmed": 1172,
+    "dead": 11,
+    "recovered": 209,
+    "updated": "2020-06-01 06:00:12.669843+00:00"
+  },
+  {
+    "location": "Burkina Faso",
+    "country_code": "bf",
+    "latitude": 12.238333,
+    "longitude": -1.561593,
+    "confirmed": 847,
+    "dead": 53,
+    "recovered": 719,
+    "updated": "2020-06-01 06:00:13.523750+00:00"
+  },
+  {
+    "location": "Uruguay",
+    "country_code": "uy",
+    "latitude": -32.522779,
+    "longitude": -55.765835,
+    "confirmed": 823,
+    "dead": 22,
+    "recovered": 683,
+    "updated": "2020-06-01 06:00:13.585573+00:00"
+  },
+  {
+    "location": "Chad",
+    "country_code": "td",
+    "latitude": 15.454166,
+    "longitude": 18.732207,
+    "confirmed": 778,
+    "dead": 65,
+    "recovered": 491,
+    "updated": "2020-06-01 06:00:13.699339+00:00"
+  },
+  {
+    "location": "San Marino",
+    "country_code": "sm",
+    "latitude": 43.94236,
+    "longitude": 12.457777,
+    "confirmed": 671,
+    "dead": 42,
+    "recovered": 344,
+    "updated": "2020-06-01 06:00:13.983382+00:00"
+  },
+  {
+    "location": "Jamaica",
+    "country_code": "jm",
+    "latitude": 18.109581,
+    "longitude": -77.297508,
+    "confirmed": 581,
+    "dead": 9,
+    "recovered": 290,
+    "updated": "2020-06-01 06:00:14.139790+00:00"
+  },
+  {
+    "location": "Mauritius",
+    "country_code": "mu",
+    "latitude": -20.348404,
+    "longitude": 57.55215200000001,
+    "confirmed": 335,
+    "dead": 10,
+    "recovered": 322,
+    "updated": "2020-06-01 06:00:14.750188+00:00"
+  },
+  {
+    "location": "Tanzania",
+    "country_code": "tz",
+    "latitude": -6.369028,
+    "longitude": 34.888822,
+    "confirmed": 509,
+    "dead": 21,
+    "recovered": 183,
+    "updated": "2020-06-01 06:00:14.268160+00:00"
+  },
+  {
+    "location": "Vietnam",
+    "country_code": "vn",
+    "latitude": 14.058324,
+    "longitude": 108.277199,
+    "confirmed": 328,
+    "dead": 0,
+    "recovered": 279,
+    "updated": "2020-06-01 06:00:14.806520+00:00"
+  },
+  {
+    "location": "El Salvador",
+    "country_code": "sv",
+    "latitude": 13.794185,
+    "longitude": -88.89653,
+    "confirmed": 2517,
+    "dead": 46,
+    "recovered": 1040,
+    "updated": "2020-06-01 06:00:10.982521+00:00"
+  },
+  {
+    "location": "Madagascar",
+    "country_code": "mg",
+    "latitude": -18.766947,
+    "longitude": 46.869107,
+    "confirmed": 771,
+    "dead": 6,
+    "recovered": 168,
+    "updated": "2020-06-01 06:00:13.755965+00:00"
+  },
+  {
+    "location": "Myanmar",
+    "country_code": "mm",
+    "latitude": 21.916221,
+    "longitude": 95.955974,
+    "confirmed": 224,
+    "dead": 6,
+    "recovered": 130,
+    "updated": "2020-06-01 06:00:15.378913+00:00"
+  },
+  {
+    "location": "Nicaragua",
+    "country_code": "ni",
+    "latitude": 12.865416,
+    "longitude": -85.207229,
+    "confirmed": 759,
+    "dead": 35,
+    "recovered": 370,
+    "updated": "2020-06-01 06:00:13.862687+00:00"
+  },
+  {
+    "location": "Laos",
+    "country_code": "la",
+    "latitude": 19.85627,
+    "longitude": 102.495496,
+    "confirmed": 19,
+    "dead": 0,
+    "recovered": 16,
+    "updated": "2020-06-01 06:00:17.306863+00:00"
+  },
+  {
+    "location": "Malawi",
+    "country_code": "mw",
+    "latitude": -13.254308,
+    "longitude": 34.301525,
+    "confirmed": 284,
+    "dead": 4,
+    "recovered": 42,
+    "updated": "2020-06-01 06:00:15.157642+00:00"
+  },
+  {
+    "location": "Benin",
+    "country_code": "bj",
+    "latitude": 9.30769,
+    "longitude": 2.315834,
+    "confirmed": 232,
+    "dead": 3,
+    "recovered": 143,
+    "updated": "2020-06-01 06:00:15.327734+00:00"
+  },
+  {
+    "location": "Libya",
+    "country_code": "ly",
+    "latitude": 26.3351,
+    "longitude": 17.228331,
+    "confirmed": 156,
+    "dead": 5,
+    "recovered": 52,
+    "updated": "2020-06-01 06:00:15.712718+00:00"
+  },
+  {
+    "location": "Cayman Islands",
+    "country_code": "ky",
+    "latitude": 19.3133,
+    "longitude": -81.2546,
+    "confirmed": 141,
+    "dead": 1,
+    "recovered": 68,
+    "updated": "2020-06-01 06:00:15.911649+00:00"
+  },
+  {
+    "location": "Bermuda",
+    "country_code": "bm",
+    "latitude": 32.3078,
+    "longitude": -64.7505,
+    "confirmed": 140,
+    "dead": 9,
+    "recovered": 92,
+    "updated": "2020-06-01 06:00:15.963899+00:00"
+  },
+  {
+    "location": "Cambodia",
+    "country_code": "kh",
+    "latitude": 12.565679,
+    "longitude": 104.990963,
+    "confirmed": 125,
+    "dead": 0,
+    "recovered": 123,
+    "updated": "2020-06-01 06:00:16.010069+00:00"
+  },
+  {
+    "location": "Syria",
+    "country_code": "sy",
+    "latitude": 34.80207499999999,
+    "longitude": 38.996815,
+    "confirmed": 122,
+    "dead": 5,
+    "recovered": 46,
+    "updated": "2020-06-01 06:00:16.065196+00:00"
+  },
+  {
+    "location": "Monaco",
+    "country_code": "mc",
+    "latitude": 43.73841760000001,
+    "longitude": 7.424615799999999,
+    "confirmed": 99,
+    "dead": 4,
+    "recovered": 90,
+    "updated": "2020-06-01 06:00:16.301768+00:00"
+  },
+  {
+    "location": "Sint Maarten",
+    "country_code": "sx",
+    "latitude": 18.04248,
+    "longitude": -63.05483,
+    "confirmed": 77,
+    "dead": 15,
+    "recovered": 60,
+    "updated": "2020-06-01 06:00:16.522391+00:00"
+  },
+  {
+    "location": "Namibia",
+    "country_code": "na",
+    "latitude": -22.95764,
+    "longitude": 18.49041,
+    "confirmed": 24,
+    "dead": 0,
+    "recovered": 14,
+    "updated": "2020-06-01 06:00:17.040503+00:00"
+  },
+  {
+    "location": "U.S. Virgin Islands",
+    "country_code": "vi",
+    "latitude": 18.335765,
+    "longitude": -64.896335,
+    "confirmed": 69,
+    "dead": 6,
+    "recovered": 61,
+    "updated": "2020-06-01 06:00:16.570146+00:00"
+  },
+  {
+    "location": "Burundi",
+    "country_code": "bi",
+    "latitude": -3.373056,
+    "longitude": 29.918886,
+    "confirmed": 63,
+    "dead": 1,
+    "recovered": 33,
+    "updated": "2020-06-01 06:00:16.622352+00:00"
+  },
+  {
+    "location": "Bahamas",
+    "country_code": "bs",
+    "latitude": 25.03428,
+    "longitude": -77.39627999999999,
+    "confirmed": 102,
+    "dead": 11,
+    "recovered": 48,
+    "updated": "2020-06-01 06:00:16.196392+00:00"
+  },
+  {
+    "location": "East Timor",
+    "country_code": "tl",
+    "latitude": -8.874217,
+    "longitude": 125.727539,
+    "confirmed": 24,
+    "dead": 0,
+    "recovered": 24,
+    "updated": "2020-06-01 06:00:16.978907+00:00"
+  },
+  {
+    "location": "Northern Mariana Islands",
+    "country_code": "mp",
+    "latitude": 15.0979,
+    "longitude": 145.6739,
+    "confirmed": 22,
+    "dead": 2,
+    "recovered": 15,
+    "updated": "2020-06-01 06:00:17.214411+00:00"
+  },
+  {
+    "location": "Curaçao",
+    "country_code": "cw",
+    "latitude": 12.16957,
+    "longitude": -68.99002,
+    "confirmed": 19,
+    "dead": 1,
+    "recovered": 14,
+    "updated": "2020-06-01 06:00:17.257714+00:00"
+  },
+  {
+    "location": "Dominica",
+    "country_code": "dm",
+    "latitude": 15.414999,
+    "longitude": -61.37097600000001,
+    "confirmed": 16,
+    "dead": 0,
+    "recovered": 16,
+    "updated": "2020-06-01 06:00:17.583064+00:00"
+  },
+  {
+    "location": "Saint Lucia",
+    "country_code": "lc",
+    "latitude": 13.909444,
+    "longitude": -60.978893,
+    "confirmed": 18,
+    "dead": 0,
+    "recovered": 18,
+    "updated": "2020-06-01 06:00:17.523795+00:00"
+  },
+  {
+    "location": "Haiti",
+    "country_code": "ht",
+    "latitude": 18.971187,
+    "longitude": -72.285215,
+    "confirmed": 1865,
+    "dead": 41,
+    "recovered": 24,
+    "updated": "2020-06-01 06:00:11.410919+00:00"
+  },
+  {
+    "location": "Uganda",
+    "country_code": "ug",
+    "latitude": 1.373333,
+    "longitude": 32.290275,
+    "confirmed": 417,
+    "dead": 0,
+    "recovered": 72,
+    "updated": "2020-06-01 06:00:14.560922+00:00"
+  },
+  {
+    "location": "Eswatini",
+    "country_code": "sz",
+    "latitude": -26.522503,
+    "longitude": 31.465866,
+    "confirmed": 285,
+    "dead": 2,
+    "recovered": 189,
+    "updated": "2020-06-01 06:00:15.107186+00:00"
+  },
+  {
+    "location": "Macau",
+    "country_code": "mo",
+    "latitude": 22.198745,
+    "longitude": 113.543873,
+    "confirmed": 45,
+    "dead": 0,
+    "recovered": 45,
+    "updated": "2020-06-01 06:00:16.743280+00:00"
+  },
+  {
+    "location": "Eritrea",
+    "country_code": "er",
+    "latitude": 15.179384,
+    "longitude": 39.782334,
+    "confirmed": 39,
+    "dead": 0,
+    "recovered": 39,
+    "updated": "2020-06-01 06:00:16.855042+00:00"
+  },
+  {
+    "location": "Central African Republic",
+    "country_code": "cf",
+    "latitude": 6.611110999999999,
+    "longitude": 20.939444,
+    "confirmed": 1011,
+    "dead": 2,
+    "recovered": 23,
+    "updated": "2020-06-01 06:00:13.209688+00:00"
+  },
+  {
+    "location": "South Sudan",
+    "country_code": "ss",
+    "latitude": 6.876991899999999,
+    "longitude": 31.3069788,
+    "confirmed": 994,
+    "dead": 10,
+    "recovered": 6,
+    "updated": "2020-06-01 06:00:13.258223+00:00"
+  },
+  {
+    "location": "Zimbabwe",
+    "country_code": "zw",
+    "latitude": -19.015438,
+    "longitude": 29.154857,
+    "confirmed": 178,
+    "dead": 4,
+    "recovered": 29,
+    "updated": "2020-06-01 06:00:15.551642+00:00"
+  },
+  {
+    "location": "Grenada",
+    "country_code": "gd",
+    "latitude": 12.1165,
+    "longitude": -61.67899999999999,
+    "confirmed": 23,
+    "dead": 0,
+    "recovered": 18,
+    "updated": "2020-06-01 06:00:17.095691+00:00"
+  },
+  {
+    "location": "Belize",
+    "country_code": "bz",
+    "latitude": 17.189877,
+    "longitude": -88.49765,
+    "confirmed": 18,
+    "dead": 2,
+    "recovered": 16,
+    "updated": "2020-06-01 06:00:17.361227+00:00"
+  },
+  {
+    "location": "Yemen",
+    "country_code": "ye",
+    "latitude": 15.552727,
+    "longitude": 48.516388,
+    "confirmed": 323,
+    "dead": 80,
+    "recovered": 14,
+    "updated": "2020-06-01 06:00:14.921932+00:00"
+  },
+  {
+    "location": "Mozambique",
+    "country_code": "mz",
+    "latitude": -18.665695,
+    "longitude": 35.529562,
+    "confirmed": 254,
+    "dead": 2,
+    "recovered": 91,
+    "updated": "2020-06-01 06:00:15.264753+00:00"
+  },
+  {
+    "location": "Mongolia",
+    "country_code": "mn",
+    "latitude": 46.862496,
+    "longitude": 103.846656,
+    "confirmed": 179,
+    "dead": 0,
+    "recovered": 44,
+    "updated": "2020-06-01 06:00:15.486152+00:00"
+  },
+  {
+    "location": "Guyana",
+    "country_code": "gy",
+    "latitude": 4.860416,
+    "longitude": -58.93018,
+    "confirmed": 153,
+    "dead": 12,
+    "recovered": 70,
+    "updated": "2020-06-01 06:00:15.793129+00:00"
+  },
+  {
+    "location": "Northern Cyprus",
+    "country_code": "00",
+    "latitude": 35.2480359,
+    "longitude": 33.6577243,
+    "confirmed": 108,
+    "dead": 4,
+    "recovered": 104,
+    "updated": "2020-06-01 06:00:16.128917+00:00"
+  },
+  {
+    "location": "Aruba",
+    "country_code": "aw",
+    "latitude": 12.52111,
+    "longitude": -69.968338,
+    "confirmed": 101,
+    "dead": 3,
+    "recovered": 98,
+    "updated": "2020-06-01 06:00:16.254671+00:00"
+  },
+  {
+    "location": "French Polynesia",
+    "country_code": "pf",
+    "latitude": -17.679742,
+    "longitude": -149.406843,
+    "confirmed": 60,
+    "dead": 0,
+    "recovered": 60,
+    "updated": "2020-06-01 06:00:16.689852+00:00"
+  },
+  {
+    "location": "Botswana",
+    "country_code": "bw",
+    "latitude": -22.328474,
+    "longitude": 24.684866,
+    "confirmed": 35,
+    "dead": 1,
+    "recovered": 20,
+    "updated": "2020-06-01 06:00:16.908347+00:00"
+  },
+  {
+    "location": "Nepal",
+    "country_code": "np",
+    "latitude": 28.394857,
+    "longitude": 84.12400799999999,
+    "confirmed": 1572,
+    "dead": 8,
+    "recovered": 220,
+    "updated": "2020-06-01 06:00:11.788263+00:00"
+  },
+  {
+    "location": "Liechtenstein",
+    "country_code": "li",
+    "latitude": 47.166,
+    "longitude": 9.555373,
+    "confirmed": 82,
+    "dead": 1,
+    "recovered": 55,
+    "updated": "2020-06-01 06:00:16.469778+00:00"
+  },
+  {
+    "location": "Diamond Princess",
+    "country_code": "01",
+    "latitude": 40.86429589999999,
+    "longitude": -73.9614914,
+    "confirmed": 712,
+    "dead": 14,
+    "recovered": 653,
+    "updated": "2020-06-01 06:00:13.974681+00:00"
+  },
+  {
+    "location": "New Caledonia",
+    "country_code": "nc",
+    "latitude": -20.904305,
+    "longitude": 165.618042,
+    "confirmed": 18,
+    "dead": 0,
+    "recovered": 18,
+    "updated": "2020-06-01 06:00:17.470236+00:00"
+  },
+  {
+    "location": "Papua New Guinea",
+    "country_code": "pg",
+    "latitude": -6.314992999999999,
+    "longitude": 143.95555,
+    "confirmed": 8,
+    "dead": 0,
+    "recovered": 8,
+    "updated": "2020-06-01 06:00:17.984222+00:00"
+  },
+  {
+    "location": "Greenland",
+    "country_code": "gl",
+    "latitude": 71.706936,
+    "longitude": -42.604303,
+    "confirmed": 13,
+    "dead": 0,
+    "recovered": 11,
+    "updated": "2020-06-01 06:00:17.694106+00:00"
+  },
+  {
+    "location": "United States",
+    "country_code": "us",
+    "latitude": 37.09024,
+    "longitude": -95.712891,
+    "confirmed": 1825803,
+    "dead": 105770,
+    "recovered": 398283,
+    "updated": "2020-06-01 06:00:06.454258+00:00"
+  },
+  {
+    "location": "Kuwait",
+    "country_code": "kw",
+    "latitude": 29.31166,
+    "longitude": 47.481766,
+    "confirmed": 27043,
+    "dead": 212,
+    "recovered": 11386,
+    "updated": "2020-06-01 06:00:08.152732+00:00"
+  },
+  {
+    "location": "Mauritania",
+    "country_code": "mr",
+    "latitude": 21.00789,
+    "longitude": -10.940835,
+    "confirmed": 530,
+    "dead": 23,
+    "recovered": 27,
+    "updated": "2020-06-01 06:00:14.214062+00:00"
+  },
+  {
+    "location": "Martinique",
+    "country_code": "mq",
+    "latitude": 14.641528,
+    "longitude": -61.024174,
+    "confirmed": 189,
+    "dead": 14,
+    "recovered": 91,
+    "updated": "2020-05-15 02:15:23.876038+00:00"
+  },
+  {
+    "location": "Saint Pierre Miquelon",
+    "country_code": "pm",
+    "latitude": 46.8852,
+    "longitude": -56.3159,
+    "confirmed": 1,
+    "dead": 0,
+    "recovered": 1,
+    "updated": "2020-05-15 02:15:26.914515+00:00"
+  },
+  {
+    "location": "Dominican Republic",
+    "country_code": "do",
+    "latitude": 18.735693,
+    "longitude": -70.162651,
+    "confirmed": 16908,
+    "dead": 498,
+    "recovered": 9557,
+    "updated": "2020-06-01 06:00:08.656911+00:00"
+  },
+  {
+    "location": "Kazakhstan",
+    "country_code": "kz",
+    "latitude": 48.019573,
+    "longitude": 66.923684,
+    "confirmed": 10858,
+    "dead": 40,
+    "recovered": 5404,
+    "updated": "2020-06-01 06:00:09.275102+00:00"
+  },
+  {
+    "location": "Sri Lanka",
+    "country_code": "lk",
+    "latitude": 7.873053999999999,
+    "longitude": 80.77179699999999,
+    "confirmed": 1633,
+    "dead": 10,
+    "recovered": 801,
+    "updated": "2020-06-01 06:00:11.719225+00:00"
+  },
+  {
+    "location": "Togo",
+    "country_code": "tg",
+    "latitude": 36.4197574,
+    "longitude": -98.76481059999999,
+    "confirmed": 442,
+    "dead": 13,
+    "recovered": 211,
+    "updated": "2020-06-01 06:00:14.444329+00:00"
+  },
+  {
+    "location": "Comoros",
+    "country_code": "km",
+    "latitude": -11.6455,
+    "longitude": 43.3333,
+    "confirmed": 106,
+    "dead": 2,
+    "recovered": 26,
+    "updated": "2020-06-01 06:00:16.135343+00:00"
+  },
+  {
+    "location": "French Guiana",
+    "country_code": "gf",
+    "latitude": 3.933889,
+    "longitude": -53.125782,
+    "confirmed": 164,
+    "dead": 1,
+    "recovered": 124,
+    "updated": "2020-05-15 02:15:24.080342+00:00"
+  },
+  {
+    "location": "Gambia",
+    "country_code": "gm",
+    "latitude": 13.443182,
+    "longitude": -15.310139,
+    "confirmed": 23,
+    "dead": 1,
+    "recovered": 10,
+    "updated": "2020-05-15 02:15:25.733670+00:00"
+  },
+  {
+    "location": "St. Vincent Grenadines",
+    "country_code": "vc",
+    "latitude": 12.984305,
+    "longitude": -61.287228,
+    "confirmed": 17,
+    "dead": 0,
+    "recovered": 12,
+    "updated": "2020-05-15 02:15:26.161652+00:00"
+  },
+  {
+    "location": "MS Zaandam",
+    "country_code": "03",
+    "latitude": 0,
+    "longitude": 0,
+    "confirmed": 13,
+    "dead": 4,
+    "recovered": 0,
+    "updated": "2020-06-01 06:00:17.742323+00:00"
+  },
+  {
+    "location": "Montserrat",
+    "country_code": "ms",
+    "latitude": 16.742498,
+    "longitude": -62.187366,
+    "confirmed": 11,
+    "dead": 1,
+    "recovered": 10,
+    "updated": "2020-06-01 06:00:17.815167+00:00"
+  },
+  {
+    "location": "British Virgin Islands",
+    "country_code": "vg",
+    "latitude": 18.420695,
+    "longitude": -64.639968,
+    "confirmed": 8,
+    "dead": 1,
+    "recovered": 7,
+    "updated": "2020-06-01 06:00:17.926144+00:00"
+  },
+  {
+    "location": "USS Theodore Roosevelt",
+    "country_code": "09",
+    "latitude": 0,
+    "longitude": 0,
+    "confirmed": 1102,
+    "dead": 1,
+    "recovered": 53,
+    "updated": "2020-06-01 06:00:12.848555+00:00"
+  },
+  {
+    "location": "Guadeloupe",
+    "country_code": "gp",
+    "latitude": 16.265,
+    "longitude": -61.55099999999999,
+    "confirmed": 155,
+    "dead": 13,
+    "recovered": 109,
+    "updated": "2020-05-15 02:15:24.178555+00:00"
+  },
+  {
+    "location": "Trinidad and Tobago",
+    "country_code": "tt",
+    "latitude": 10.691803,
+    "longitude": -61.222503,
+    "confirmed": 116,
+    "dead": 8,
+    "recovered": 107,
+    "updated": "2020-05-15 02:15:24.484263+00:00"
+  },
+  {
+    "location": "Saint Martin",
+    "country_code": "mf",
+    "latitude": 18.0708298,
+    "longitude": -63.0500809,
+    "confirmed": 39,
+    "dead": 3,
+    "recovered": 30,
+    "updated": "2020-05-15 02:15:25.430175+00:00"
+  },
+  {
+    "location": "Antigua and Barbuda",
+    "country_code": "ag",
+    "latitude": 17.060816,
+    "longitude": -61.796428,
+    "confirmed": 25,
+    "dead": 3,
+    "recovered": 19,
+    "updated": "2020-05-15 02:15:25.613745+00:00"
+  },
+  {
+    "location": "Bhutan",
+    "country_code": "bt",
+    "latitude": 27.514162,
+    "longitude": 90.433601,
+    "confirmed": 43,
+    "dead": 0,
+    "recovered": 6,
+    "updated": "2020-06-01 06:00:16.792979+00:00"
+  },
+  {
+    "location": "Suriname",
+    "country_code": "sr",
+    "latitude": 3.919305,
+    "longitude": -56.027783,
+    "confirmed": 23,
+    "dead": 1,
+    "recovered": 9,
+    "updated": "2020-06-01 06:00:17.153245+00:00"
+  },
+  {
+    "location": "Mayotte",
+    "country_code": "yt",
+    "latitude": -12.8275,
+    "longitude": 45.166244,
+    "confirmed": 1210,
+    "dead": 16,
+    "recovered": 627,
+    "updated": "2020-05-15 02:15:21.343198+00:00"
+  },
+  {
+    "location": "Réunion",
+    "country_code": "re",
+    "latitude": -21.115141,
+    "longitude": 55.536384,
+    "confirmed": 440,
+    "dead": 0,
+    "recovered": 354,
+    "updated": "2020-05-15 02:15:22.766266+00:00"
+  },
+  {
+    "location": "Saint Kitts and Nevis",
+    "country_code": "kn",
+    "latitude": 17.357822,
+    "longitude": -62.782998,
+    "confirmed": 15,
+    "dead": 0,
+    "recovered": 14,
+    "updated": "2020-05-15 02:15:26.381137+00:00"
+  },
+  {
+    "location": "Turks and Caicos",
+    "country_code": "tc",
+    "latitude": 21.694025,
+    "longitude": -71.797928,
+    "confirmed": 12,
+    "dead": 1,
+    "recovered": 10,
+    "updated": "2020-05-15 02:15:26.456405+00:00"
+  },
+  {
+    "location": "Sao Tome and Principe",
+    "country_code": "st",
+    "latitude": 0.18636,
+    "longitude": 6.613080999999999,
+    "confirmed": 235,
+    "dead": 7,
+    "recovered": 4,
+    "updated": "2020-05-15 02:15:23.633610+00:00"
+  },
+  {
+    "location": "St. Barth",
+    "country_code": "bl",
+    "latitude": 17.9,
+    "longitude": -62.833333,
+    "confirmed": 6,
+    "dead": 0,
+    "recovered": 6,
+    "updated": "2020-05-15 02:15:26.804403+00:00"
+  },
+  {
+    "location": "Puerto Rico",
+    "country_code": "pr",
+    "latitude": 18.220833,
+    "longitude": -66.590149,
+    "confirmed": 3776,
+    "dead": 136,
+    "recovered": 850,
+    "updated": "2020-06-01 06:00:10.426159+00:00"
+  },
+  {
+    "location": "Vatican City",
+    "country_code": "va",
+    "latitude": 41.902916,
+    "longitude": 12.453389,
+    "confirmed": 12,
+    "dead": 0,
+    "recovered": 2,
+    "updated": "2020-06-01 06:00:17.761237+00:00"
+  },
+  {
+    "location": "Seychelles",
+    "country_code": "sc",
+    "latitude": -4.679574,
+    "longitude": 55.491977,
+    "confirmed": 11,
+    "dead": 0,
+    "recovered": 11,
+    "updated": "2020-06-01 06:00:17.867368+00:00"
+  },
+  {
+    "location": "United Kingdom",
+    "country_code": "gb",
+    "latitude": 55.378051,
+    "longitude": -3.435973,
+    "confirmed": 274762,
+    "dead": 38489,
+    "recovered": 0,
+    "updated": "2020-06-01 06:00:06.646229+00:00"
+  },
+  {
+    "location": "France",
+    "country_code": "fr",
+    "latitude": 46.227638,
+    "longitude": 2.213749,
+    "confirmed": 151753,
+    "dead": 28802,
+    "recovered": 68355,
+    "updated": "2020-06-01 06:00:07.018983+00:00"
+  },
+  {
+    "location": "Qatar",
+    "country_code": "qa",
+    "latitude": 25.354826,
+    "longitude": 51.183884,
+    "confirmed": 56910,
+    "dead": 38,
+    "recovered": 30290,
+    "updated": "2020-06-01 06:00:07.504056+00:00"
+  },
+  {
+    "location": "Bosnia and Herzegovina",
+    "country_code": "ba",
+    "latitude": 43.915886,
+    "longitude": 17.679076,
+    "confirmed": 2218,
+    "dead": 122,
+    "recovered": 1272,
+    "updated": "2020-05-15 02:15:20.511314+00:00"
+  },
+  {
+    "location": "Slovakia",
+    "country_code": "sk",
+    "latitude": 48.669026,
+    "longitude": 19.699024,
+    "confirmed": 1521,
+    "dead": 28,
+    "recovered": 1366,
+    "updated": "2020-06-01 06:00:12.067280+00:00"
+  },
+  {
+    "location": "Equatorial Guinea",
+    "country_code": "gq",
+    "latitude": 1.650801,
+    "longitude": 10.267895,
+    "confirmed": 1306,
+    "dead": 12,
+    "recovered": 200,
+    "updated": "2020-06-01 06:00:12.432303+00:00"
+  },
+  {
+    "location": "Netherlands",
+    "country_code": "nl",
+    "latitude": 52.132633,
+    "longitude": 5.291265999999999,
+    "confirmed": 46442,
+    "dead": 5956,
+    "recovered": 0,
+    "updated": "2020-06-01 06:00:07.618236+00:00"
+  },
+  {
+    "location": "Taiwan",
+    "country_code": "tw",
+    "latitude": 23.69781,
+    "longitude": 120.960515,
+    "confirmed": 442,
+    "dead": 7,
+    "recovered": 421,
+    "updated": "2020-06-01 06:00:14.391534+00:00"
+  },
+  {
+    "location": "Somaliland",
+    "country_code": "05",
+    "latitude": 9.411743399999999,
+    "longitude": 46.8252838,
+    "confirmed": 286,
+    "dead": 19,
+    "recovered": 33,
+    "updated": "2020-06-01 06:00:15.034779+00:00"
+  },
+  {
+    "location": "Anguilla",
+    "country_code": "ai",
+    "latitude": 18.220554,
+    "longitude": -63.06861499999999,
+    "confirmed": 3,
+    "dead": 0,
+    "recovered": 3,
+    "updated": "2020-06-01 06:00:18.038503+00:00"
+  },
+  {
+    "location": "Lesotho",
+    "country_code": "ls",
+    "latitude": -29.609988,
+    "longitude": 28.233608,
+    "confirmed": 2,
+    "dead": 0,
+    "recovered": 1,
+    "updated": "2020-06-01 06:00:18.088940+00:00"
+  },
+  {
+    "location": "Sint Eustatius",
+    "country_code": "bq",
+    "latitude": 17.4890306,
+    "longitude": -62.973555,
+    "confirmed": 2,
+    "dead": 0,
+    "recovered": 2,
+    "updated": "2020-06-01 06:00:18.137783+00:00"
+  },
+  {
+    "location": "Barbados",
+    "country_code": "bb",
+    "latitude": 13.193887,
+    "longitude": -59.543198,
+    "confirmed": 92,
+    "dead": 7,
+    "recovered": 76,
+    "updated": "2020-06-01 06:00:16.357243+00:00"
+  },
+  {
+    "location": "Angola",
+    "country_code": "ao",
+    "latitude": -11.202692,
+    "longitude": 17.873887,
+    "confirmed": 86,
+    "dead": 4,
+    "recovered": 18,
+    "updated": "2020-06-01 06:00:16.413514+00:00"
+  },
+  {
+    "location": "Artsakh",
+    "country_code": 12,
+    "latitude": 39.796249,
+    "longitude": 46.6550799,
+    "confirmed": 40,
+    "dead": 0,
+    "recovered": 26,
+    "updated": "2020-06-01 06:00:16.846034+00:00"
+  },
+  {
+    "location": "Abkhazia",
+    "country_code": "06",
+    "latitude": 43.0015544,
+    "longitude": 41.023407,
+    "confirmed": 28,
+    "dead": 1,
+    "recovered": 15,
+    "updated": "2020-06-01 06:00:16.962870+00:00"
+  },
+  {
+    "location": "Fiji",
+    "country_code": "fj",
+    "latitude": -17.713371,
+    "longitude": 178.065032,
+    "confirmed": 18,
+    "dead": 0,
+    "recovered": 15,
+    "updated": "2020-06-01 06:00:17.409350+00:00"
+  },
+  {
+    "location": "Colombia",
+    "country_code": "co",
+    "latitude": 4.570868,
+    "longitude": -74.297333,
+    "confirmed": 29383,
+    "dead": 939,
+    "recovered": 8543,
+    "updated": "2020-06-01 06:00:08.104821+00:00"
+  },
+  {
+    "location": "Ukraine",
+    "country_code": "ua",
+    "latitude": 48.379433,
+    "longitude": 31.1655799,
+    "confirmed": 23672,
+    "dead": 708,
+    "recovered": 9538,
+    "updated": "2020-06-01 06:00:08.430074+00:00"
+  },
+  {
+    "location": "Falkland Islands",
+    "country_code": "fk",
+    "latitude": -51.796253,
+    "longitude": -59.523613,
+    "confirmed": 13,
+    "dead": 0,
+    "recovered": 13,
+    "updated": "2020-06-01 06:00:17.643080+00:00"
+  },
+  {
+    "location": "Coral Princess",
+    "country_code": 11,
+    "latitude": 26.648165,
+    "longitude": -82.03541899999999,
+    "confirmed": 12,
+    "dead": 2,
+    "recovered": 0,
+    "updated": "2020-06-01 06:00:17.751223+00:00"
+  },
+  {
+    "location": "Bolivia",
+    "country_code": "bo",
+    "latitude": -16.290154,
+    "longitude": -63.58865299999999,
+    "confirmed": 9592,
+    "dead": 310,
+    "recovered": 889,
+    "updated": "2020-06-01 06:00:09.374489+00:00"
+  },
+  {
+    "location": "Honduras",
+    "country_code": "hn",
+    "latitude": 15.199999,
+    "longitude": -86.241905,
+    "confirmed": 5094,
+    "dead": 201,
+    "recovered": 536,
+    "updated": "2020-06-01 06:00:10.109785+00:00"
+  },
+  {
+    "location": "Luxembourg",
+    "country_code": "lu",
+    "latitude": 49.815273,
+    "longitude": 6.129582999999999,
+    "confirmed": 4018,
+    "dead": 110,
+    "recovered": 3833,
+    "updated": "2020-06-01 06:00:10.262071+00:00"
+  }
+]

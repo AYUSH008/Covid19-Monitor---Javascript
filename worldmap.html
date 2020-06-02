@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.css' rel='stylesheet' />
+
+    <title>Corona Live Tracker</title>
+    <script src="worldmap.js"></script>
+    <style>
+        .body{
+            margin: 0;
+            padding: 0;
+        }
+        #map{
+            width: 100vw;
+            height: 100vh;
+        }
+    </style>
+</head>
+
+<body>
+    <div id='map' ></div>
+</body>
+
+
+<script src='https://api.mapbox.com/mapbox-gl-js/v1.8.1/mapbox-gl.js'></script>
+
+<script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoiYXl1c2gxNzAxIiwiYSI6ImNrYW95Z2V5dDB6cGIyd3J4ZTg0Z3B5dm0ifQ.xKO9mJOfUH7JIpeo-N4fQg';
+    
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/dark-v10',
+        zoom:3,
+    });
+
+   
+ 
+// create DOM element for the marker
+var el = document.createElement('div');
+el.id = 'marker';
+ 
+// create the marker
+new mapboxgl.Marker(el)
+.setLngLat(monument)
+.setPopup(popup) // sets a popup on this marker
+.addTo(map);
+</script>
+
+
+</html>

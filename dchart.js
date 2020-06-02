@@ -8,7 +8,7 @@ $(document).ready(function () {
         var deaths1 = data.data.summary.deaths;
 
 
-        console.log(confirmed1);
+        
 
         var dchart1 = document.getElementById("dchart1").getContext("2d");
         var dchart1 = new chart(dchart1, {
